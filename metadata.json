@@ -1,0 +1,6 @@
+{
+  "name": "DaXa Tactical Intelligence",
+  "description": "מערכת DaXa - אוטומציה של מודיעין טקטי וסגירת מעגלי חיישן-למטרה בגזרת דרום לבנון",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
